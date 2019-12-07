@@ -6,6 +6,8 @@ ___
 *Terminal Commands:*:
 ```
 test
+dayzero
+bluebook
 ```
 
 *Founders **(2)***:

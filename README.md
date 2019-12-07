@@ -5,7 +5,6 @@ ___
 
 *Terminal Commands:*:
 ```
-test
 dayzero
 bluebook
 ```

@@ -3,7 +3,7 @@ ___
 ## </Polter Enterprise>
 ###### Project - Govern
 
-*Terminal Commands:*:
+*Terminal Commands*:
 ```
 dayzero
 bluebook
